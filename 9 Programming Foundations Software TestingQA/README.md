@@ -1,5 +1,8 @@
-#Quality Assurance 
+# 9- Programming Foundations: Software Testing/QA
 
+# Quality Assurance
+
+```jsx
 - Quality Assurance  : A systematic process used to determine whether
                        a product meets a specifications 
 
@@ -31,17 +34,21 @@
 - Test : [  manual and automation tests , Acceptance testing ] 
 - Deploy : [ validate functionality  , release , test in production ] 
  
+```
 
- ---------------------------------------------------------------------------------------------------
- #Test Planning 
- - Acceptance criteria : condition that a software product must satisfy to be 
+# Test Planning
+
+```jsx
+- Acceptance criteria : condition that a software product must satisfy to be 
                        accepted by a stakeholder 
 - test strategy: [ QA deliverables , Scope of testing , Refrences ] 
 
 - The definition of done specifies when testing is complete 
+```
 
- ---------------------------------------------------------------------------------------------------
-#Type of Testing QA Focuses On
+# Type of Testing QA Focuses On
+
+```jsx
 - Types of Balck Box Testing   [  Manual , UI Automation ]   --> QA Engineer 
 - Gray Box Testing   -->  examines the interaction between the outside and inside of a box.
 - White Box Testing  -->  Focus on the internals of the application  
@@ -49,7 +56,6 @@
 
 - Integration Testing: focus on the interaction between application components 
   : For [ browser , server , database ] 
-
 
                          - Performance Testing - 
 
@@ -62,12 +68,16 @@
 - SQL injection
 - DOS Attack  --> Denial of service   --> Try to take down server or network 
  
+```
 
+# Bug Reporting
 
- ---------------------------------------------------------------------------------------------------
-## Bug Reporting
+```jsx
 - Severity: How impactful the bug is to the business 
 - priority:  How fast the bug should be fixed 
 
 - What details should a bug report include?
  [ actual result ,  name of the bug ,   expected result  ]
+
+```
+
